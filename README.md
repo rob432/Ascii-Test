@@ -1,2 +1,2 @@
 # Ascii-Test
-simpel text converter
+simple text converter
